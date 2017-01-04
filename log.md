@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3, 2017
+### Day 1: January 3, 2017 (Tuesday)
 
 **Today's Progress**: Restarted Free Code Camp's front end curriculum.
 
@@ -10,16 +10,16 @@
 
 
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 0: January 4, 2017 (Wednesday)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**:
 
 
-### Day 1: June 27, Monday
+### Day 1: January 5, 2017 (Thursday)
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
