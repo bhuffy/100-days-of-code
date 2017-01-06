@@ -6,7 +6,7 @@
 
 **Thoughts:** I hadn't consistently, so I forgot the intro stuff I worked on a few months ago and scattered things I've learned throughout the last half year (I previously did the first 27 or so on the FCC map, so it only shows 1 new item). Today I was able to get through 28, and many of the elements and whatnot are coming back to me.
 
-**Link to work:** [My FCC profile](https://www.freecodecamp.com/bhuffy)
+**Link to work:** [My Free Code Camp profile](https://www.freecodecamp.com/bhuffy)
 
 
 
@@ -16,7 +16,7 @@
 
 **Thoughts**: It's going fairly well and today was all new material. I've also started creating a sheet on Evernote for notes on things to remember (a reference guide/cheat sheet of sorts). I felt that much progress was made today!
 
-**Link(s) to work**: (https://www.freecodecamp.com/bhuffy)
+**Link(s) to work**: [My Free Code Camp profile] (https://www.freecodecamp.com/bhuffy)
 
 
 ### Day 3: January 5, 2017 (Thursday)
@@ -25,7 +25,7 @@
 
 **Thoughts** I'm enjoying the process of learning so far. Everthing that I've learned hasn't been difficult or taken more than a minute or two to figure out for each section. I'm excited to see what the next section on responsive design with boostrap will have in store.
 
-**Link(s) to work**: (https://www.freecodecamp.com/bhuffy)
+**Link(s) to work**: [My Free Code Camp profile] (https://www.freecodecamp.com/bhuffy)
 
 
 ### Day 4: January 6, 2017 (Friday)
