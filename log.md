@@ -6,25 +6,42 @@
 
 **Thoughts:** I hadn't consistently, so I forgot the intro stuff I worked on a few months ago and scattered things I've learned throughout the last half year (I previously did the first 27 or so on the FCC map, so it only shows 1 new item). Today I was able to get through 28, and many of the elements and whatnot are coming back to me.
 
-**Link to work:** [My GitHub profile](https://www.freecodecamp.com/bhuffy)
+**Link to work:** [My FCC profile](https://www.freecodecamp.com/bhuffy)
 
 
 
-### Day 0: January 4, 2017 (Wednesday)
+### Day 2: January 4, 2017 (Wednesday)
+
+**Today's Progress**: I continued FCC's front end curriculum in HTML and CSS. On track to finish section tomorrow!
+
+**Thoughts**: It's going fairly well and today was all new material. I've also started creating a sheet on Evernote for notes on things to remember (a reference guide/cheat sheet of sorts). I felt that much progress was made today!
+
+**Link(s) to work**: (https://www.freecodecamp.com/bhuffy)
+
+
+### Day 3: January 5, 2017 (Thursday)
+
+**Today's Progress**: I finished the HTML & CSS section of Free Code Camp (the first 5 hour section).
+
+**Thoughts** I'm enjoying the process of learning so far. Everthing that I've learned hasn't been difficult or taken more than a minute or two to figure out for each section. I'm excited to see what the next section on responsive design with boostrap will have in store.
+
+**Link(s) to work**: (https://www.freecodecamp.com/bhuffy)
+
+
+### Day 4: January 6, 2017 (Friday)
 
 **Today's Progress**:
 
-**Thoughts**:
+**Thoughts** 
 
 **Link(s) to work**:
 
 
-### Day 1: January 5, 2017 (Thursday)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 5: January 7, 2017 (Saturday)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**:
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** 
+
+**Link(s) to work**:
