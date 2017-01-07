@@ -30,11 +30,11 @@
 
 ### Day 4: January 6, 2017 (Friday)
 
-**Today's Progress**:
+**Today's Progress**: I started the bootstrap portion of Free Code Camp.
 
-**Thoughts** 
+**Thoughts** I enjoyed my first day learning Bootstrap. I progressed at a much slower rate compared to previous days on HTML and CSS (even though they seem relatively similar to me), but part of that is due to research on why frameworks are useful and how Bootstrap helps. I'm hoping I'll gather a basic understanding of how things are related and why they are used, especially early on.
 
-**Link(s) to work**:
+**Link(s) to work**: [My Free Code Camp profile] (https://www.freecodecamp.com/bhuffy) (again...)
 
 
 
