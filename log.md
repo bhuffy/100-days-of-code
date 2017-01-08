@@ -40,8 +40,8 @@
 
 ### Day 5: January 7, 2017 (Saturday)
 
-**Today's Progress**:
+**Today's Progress**: Worked on Free Code Camp's bootstrap portion. 
 
-**Thoughts** 
+**Thoughts** Some of the code is getting a bit more challenging, but still relatively straight forward. I can tell that I'm slowly being expected to remember concepts and navigate more code. I'm a bit worried that I won't be able to remember all of this without reminders (or a lot of practice). I'm also excited because I'm on track to be starting the Free Code Camp basic front end development projects this coming week! Let's see how it all turns out. :)
 
-**Link(s) to work**:
+**Link(s) to work**: [My Free Code Camp profile] (https://www.freecodecamp.com/bhuffy) (Anotha one.)
