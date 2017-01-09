@@ -30,7 +30,7 @@
 
 ### Day 4: January 6, 2017 (Friday)
 
-**Today's Progress**: I started the bootstrap portion of Free Code Camp.
+**Today's Progress**: I started the bootstrap section of Free Code Camp.
 
 **Thoughts** I enjoyed my first day learning Bootstrap. I progressed at a much slower rate compared to previous days on HTML and CSS (even though they seem relatively similar to me), but part of that is due to research on why frameworks are useful and how Bootstrap helps. I'm hoping I'll gather a basic understanding of how things are related and why they are used, especially early on.
 
@@ -40,8 +40,18 @@
 
 ### Day 5: January 7, 2017 (Saturday)
 
-**Today's Progress**: Worked on Free Code Camp's bootstrap portion. 
+**Today's Progress**: Worked on Free Code Camp's bootstrap section. 
 
 **Thoughts** Some of the code is getting a bit more challenging, but still relatively straight forward. I can tell that I'm slowly being expected to remember concepts and navigate more code. I'm a bit worried that I won't be able to remember all of this without reminders (or a lot of practice). I'm also excited because I'm on track to be starting the Free Code Camp basic front end development projects this coming week! Let's see how it all turns out. :)
 
 **Link(s) to work**: [My Free Code Camp profile] (https://www.freecodecamp.com/bhuffy) (Anotha one.)
+
+
+
+### Day 6: January 8, 2017 (Sunday)
+
+**Today's Progress**: Started the jQuery section of Free Code Camp. 
+
+**Thoughts** Part of the process today was signing up for the forums and looking around. It seems like a great community of people who genuinely care about learning and software development. I was thinking about supplementing FCC's curriculum with other programs, but I'm not so sure I need that anymore. I didn't learn a ton today about code, but I'm understanding the process better.
+
+**Link(s) to work**: [My Free Code Camp profile] (https://www.freecodecamp.com/bhuffy) (Major key.)
