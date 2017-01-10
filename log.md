@@ -55,3 +55,14 @@
 **Thoughts** Part of the process today was signing up for the forums and looking around. It seems like a great community of people who genuinely care about learning and software development. I was thinking about supplementing FCC's curriculum with other programs, but I'm not so sure I need that anymore. I didn't learn a ton today about code, but I'm understanding the process better.
 
 **Link(s) to work**: [My Free Code Camp profile] (https://www.freecodecamp.com/bhuffy) (Major key.)
+
+
+
+### Day 7: January 9, 2017 (Monday)
+
+**Today's Progress**: Finished the jQuery section of FCC and set up CodePen.
+
+**Thoughts** I'm somewhat impressed at how far I came today. I was mulling over the numbers to finish the certificates yesterday and realized it would take about two years if I stuck to my schedule which includes spending most of my summer on it. Considering I completed the jQuery section in a fraction of the suggested time without rushing (taking notes, actually), I'm not sure what to expect. I'm also a bit of a perfectionist, so I bet the project will take a while (I would also like them to look good!). Only time will tell. :)
+
+**Link(s) to work**: [My Free Code Camp profile] (https://www.freecodecamp.com/bhuffy)
+                     [My CodePen profile] (https://codepen.io/bhuffy/)
