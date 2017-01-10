@@ -64,5 +64,6 @@
 
 **Thoughts** I'm somewhat impressed at how far I came today. I was mulling over the numbers to finish the certificates yesterday and realized it would take about two years if I stuck to my schedule which includes spending most of my summer on it. Considering I completed the jQuery section in a fraction of the suggested time without rushing (taking notes, actually), I'm not sure what to expect. I'm also a bit of a perfectionist, so I bet the project will take a while (I would also like them to look good!). Only time will tell. :)
 
-**Link(s) to work**: [My Free Code Camp profile] (https://www.freecodecamp.com/bhuffy)
-                     [My CodePen profile] (https://codepen.io/bhuffy/)
+**Link(s) to work**: 
+[My Free Code Camp profile] (https://www.freecodecamp.com/bhuffy)
+[My CodePen profile] (https://codepen.io/bhuffy/)
