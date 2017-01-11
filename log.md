@@ -79,6 +79,3 @@
                      [My CodePen profile] (https://codepen.io/bhuffy/)
 
 
-
-
-(http://codepen.io/bhuffy/pen/PWPLZN)
