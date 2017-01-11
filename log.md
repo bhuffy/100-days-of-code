@@ -66,3 +66,19 @@
 
 **Link(s) to work**: [My Free Code Camp profile] (https://www.freecodecamp.com/bhuffy)
                      [My CodePen profile] (https://codepen.io/bhuffy/)
+
+
+
+### Day 8: January 10, 2017 (Tuesday)
+
+**Today's Progress**: Started coding and researching for Tribute Page on CodePen.
+
+**Thoughts** Hmm... I was a bit overwhelmed and didn't know where to start with a blank sheet. No instructions make the process a little harder. I tried not to look at anyone's code, but I looked at a few different pages and have a general plan on what I might make it look like. I've also realized that with so many tools its hard to pick out what the best practices are for situations, or how to organize my code in a way other developers can easily understand. Lastly, I'm interested in exploring HTML & CSS further because it seems like there's so much I don't know about HTML and CSS that I don't think I'll learn in FCC.
+
+**Link(s) to work**: [Tribute Page] (http://codepen.io/bhuffy/pen/PWPLZN)
+                     [My CodePen profile] (https://codepen.io/bhuffy/)
+
+
+
+
+(http://codepen.io/bhuffy/pen/PWPLZN)
