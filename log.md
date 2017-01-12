@@ -78,3 +78,11 @@
 **Link(s) to work**: [Tribute Page] (http://codepen.io/bhuffy/pen/PWPLZN)
 
 
+
+### Day 9: January 11, 2017 (Wednesday)
+
+**Today's Progress**: Worked on Tribute Page
+
+**Thoughts** Today I spent quite a lot of time revising my notes and code for some silly things I couldn't work out. For example, I didn't undertand why my image wasn't responsive (forgot to insert "img-responsive" class) and I had trouble with Google Fonts because I thought the link would be under the CSS instead of HTML. Anyway, I'm juuuuusst starting to get a feel for the general layout and process.
+
+**Link(s) to work**: [Tribute Page] (http://codepen.io/bhuffy/pen/PWPLZN)
