@@ -79,7 +79,7 @@
 
 
 
-### Day 9: January 11, 2017 (Wednesday)
+### Day 10: January 11, 2017 (Wednesday)
 
 **Today's Progress**: Worked on Tribute Page.
 
@@ -94,5 +94,15 @@
 **Today's Progress**: Worked on Tribute Page.
 
 **Thoughts** Most of today was research and inserting content. Ray Kurzweil has a rich history... Overall today was smooth and I only ran into a few problems in terms of centering. I've decided to only use HTML for this project, so styling is a bit interesting. I expect I'll finish the tribute page in another day.
+
+**Link(s) to work**: [Tribute Page] (http://codepen.io/bhuffy/full/PWPLZN/)
+
+
+
+### Day 11: January 13, 2017 (Friday)
+
+**Today's Progress**: Worked on Tribute Page.
+
+**Thoughts** I finished my first edition of the tribute page today. I intentionally made it minimalistic because I was avoiding using CSS and I also didn't want to use cheesy colors (though I did mess around with them a bit). I recently bought "HTML & CSS" by Jon Duckett, which I'll be reading the next few weeks while I construct my portfolio page and possibly revise the tribute page if I feel the need. I'm happy with my results so far.
 
 **Link(s) to work**: [Tribute Page] (http://codepen.io/bhuffy/full/PWPLZN/)
