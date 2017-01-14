@@ -117,5 +117,5 @@
 
 Anyway, the next few days I probably won't be doing anything except learning through the book. Plus, I read 35 pages today and now even have a basic understanding of how the web works as well as the "why" of using elements instead of just what they do. The functionality aspects are review so far, but I know there are elements that I haven't covered in FCC that I'll find in the book. The last 2 chapters on CSS and and the process of building websites for funcionality and practically look fun!
 
-**Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/) NOTE: Not yet started.
 
