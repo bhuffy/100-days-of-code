@@ -106,3 +106,16 @@
 **Thoughts** I finished my first edition of the tribute page today. I intentionally made it minimalistic because I was avoiding using CSS and I also didn't want to use cheesy colors (though I did mess around with them a bit). I recently bought "HTML & CSS" by Jon Duckett, which I'll be reading the next few weeks while I construct my portfolio page and possibly revise the tribute page if I feel the need. I'm happy with my results so far.
 
 **Link(s) to work**: [Tribute Page] (http://codepen.io/bhuffy/full/PWPLZN/)
+
+
+
+### Day 12: January 14, 2017 (Saturday)
+
+**Today's Progress**: Worked on Tribute Page.
+
+**Thoughts** Ok, so here's the deal... today I looked at the next project: building a portfolio website. The website given has more functionality that I think I can perform. I also took a look at other tribute pages after I finished, and I realized that some people created web pages far more advanced than mine in only HTML and CSS! Granted it seems like the great ones had prior experience, but because I want to be particularly good at Front End development and FCC doesn't offer more information on HTML, CSS, or jQuery (the next part goes straight to Javascript) I've decided to read Jon Duckett's book on HTML & CSS while completing this next project. It's not that I can't build one with my current skills, but I want it to look more than acceptable; I want it to look <em>good</em>. I figure supplementing my progress towards the FCC certificates with other texts will help me in the long run. I need to focus on the quality of my products more than getting a certificate, right?
+
+Anyway, the next few days I probably won't be doing anything except learning through the book. Plus, I read 35 pages today and now even have a basic understanding of how the web works as well as the "why" of using elements instead of just what they do. The functionality aspects are review so far, but I know there are elements that I haven't covered in FCC that I'll find in the book. The last 2 chapters on CSS and and the process of building websites for funcionality and practically look fun!
+
+**Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
+
