@@ -121,7 +121,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 
 
-### Day 12: January 14, 2017 (Saturday)
+### Day 13: January 15, 2017 (Sunday)
 
 **Today's Progress**: learned HTML & CSS from Jon Duckett's book.
 
