@@ -128,3 +128,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts** I think once I finish the HTML section of the book I'll start the portfolio page (splitting half between learning CSS and coding on codepen.io). I browsed codepen and found some super awesome stuff today done only with HTML and CSS, which is a huge inspiration to learn more about HTML and CSS before moving onto Javascript. I suspect I won't finish the portfolio website until 1-2 weeks from now. Oh well... definitely having fun!
 
 **Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 14: January 16, 2017 (Monday)
+
+**Today's Progress**: learned HTML & CSS from Jon Duckett's book, started Portfolio Page.
+
+**Thoughts** I read through some more of the HTML & CSS book, but I also started the page the last 10 minutes because I figure I need to work or else I'll start forgetting some things. I learned a lot more about the structure of HTML and links today, including how I might organize a site map, which is useful for a portfolio page. Tomorrow I'll probably start splitting 50/50 with coding and the book.
+
+**Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
