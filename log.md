@@ -123,7 +123,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 ### Day 13: January 15, 2017 (Sunday)
 
-**Today's Progress**: learned HTML & CSS from Jon Duckett's book.
+**Today's Progress**: Learned HTML & CSS from Jon Duckett's book.
 
 **Thoughts** I think once I finish the HTML section of the book I'll start the portfolio page (splitting half between learning CSS and coding on codepen.io). I browsed codepen and found some super awesome stuff today done only with HTML and CSS, which is a huge inspiration to learn more about HTML and CSS before moving onto Javascript. I suspect I won't finish the portfolio website until 1-2 weeks from now. Oh well... definitely having fun!
 
@@ -133,7 +133,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 ### Day 14: January 16, 2017 (Monday)
 
-**Today's Progress**: learned HTML & CSS from Jon Duckett's book, started Portfolio Page.
+**Today's Progress**: Learned HTML & CSS from Jon Duckett's book, started Portfolio Page.
 
 **Thoughts** I read through some more of the HTML & CSS book, but I also started the page the last 10 minutes because I figure I need to work or else I'll start forgetting some things. I learned a lot more about the structure of HTML and links today, including how I might organize a site map, which is useful for a portfolio page. Tomorrow I'll probably start splitting 50/50 with coding and the book.
 
@@ -143,7 +143,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 ### Day 15: January 17, 2017 (Tuesday)
 
-**Today's Progress**: 
+**Today's Progress**: Learned HTML & CSS from Jon Duckett's book, experimented with Portfolio Page.
 
 **Thoughts** I read through even more of the HTML & CSS book, and experimented a little by adding an id attribute to link to different parts of my page (not going to make different ones for my portfolio, just one). I ran into a bit of trouble but I might use buttons instead. I think I might need 2-3 more days of learning the HTML section before I'm done with that, and by that point I'll probably put together the structure of the portfolio page as well. I might set aside a day to create content for it (gather images, text, outline). I definitely recommend the book though, it's so helpful! Might buy his book on Javascript and jQuery for the next unit when I start javascript, but I probably shouldn't get too far ahead of myself...
 
