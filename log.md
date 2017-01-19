@@ -148,3 +148,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts** I read through even more of the HTML & CSS book, and experimented a little by adding an id attribute to link to different parts of my page (not going to make different ones for my portfolio, just one). I ran into a bit of trouble but I might use buttons instead. I think I might need 2-3 more days of learning the HTML section before I'm done with that, and by that point I'll probably put together the structure of the portfolio page as well. I might set aside a day to create content for it (gather images, text, outline). I definitely recommend the book though, it's so helpful! Might buy his book on Javascript and jQuery for the next unit when I start javascript, but I probably shouldn't get too far ahead of myself...
 
 **Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 16: January 18, 2017 (Tuesday)
+
+**Today's Progress**: Learned HTML & CSS from Jon Duckett's book.
+
+**Thoughts** Being super tired today (coasting on 4.5 hours sleep), it's been hard focusing, so I've just been compiling notes and learning new stuff that I can review later. I should probably sleep and do more hours tomorrow, but that wouldn't comply with the challenge, and constistency is key... tomorrow will hopefully be a day of actual coding. :)
+
+**Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
