@@ -153,8 +153,18 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 ### Day 16: January 18, 2017 (Tuesday)
 
-**Today's Progress**: Learned HTML & CSS from Jon Duckett's book.
+**Today's Progress**: Learned HTML from Jon Duckett's book.
 
 **Thoughts** Being super tired today (coasting on 4.5 hours sleep), it's been hard focusing, so I've just been compiling notes and learning new stuff that I can review later. I should probably sleep and do more hours tomorrow, but that wouldn't comply with the challenge, and constistency is key... tomorrow will hopefully be a day of actual coding. :)
 
-**Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: NONE
+
+
+
+### Day 17: January 19, 2017 (Wednesday)
+
+**Today's Progress**: Learned HTML from Jon Duckett's book.
+
+**Thoughts** Today was alright. It's my birthday, but it feels pretty normal. I spent today learning about different forms in HTML and their attributes. It's astounding how much information there is. I'm going to definitely create quizlet flashcards when I finish the HTML section. I think I'll finish the HTML section in 2 days or less. Then I'll be coding the website as I read the CSS section. It doesn't worry me that I've spent 5 hours or so learning HTML & CSS from the book because I've plowed through the hours on FreeCodeCamp and the Tribute page + Personal Portfolio are supposed to take 50 hours. Putting that into perspective, an extra 10-15 hours learning HTML and CSS before coding the rest means I'll still probably finish with well under that amount, and I know they're using things in the example page that isn't taught on the site. Overall decent day, excited for tomorrow. I'm sure coding when I'm 17 will be just as exciting.
+
+**Link(s) to work**: NONE
