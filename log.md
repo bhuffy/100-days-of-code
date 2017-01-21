@@ -168,3 +168,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts** Today was alright. It's my birthday, but it feels pretty normal. I spent today learning about different forms in HTML and their attributes. It's astounding how much information there is. I'm going to definitely create quizlet flashcards when I finish the HTML section. I think I'll finish the HTML section in 2 days or less. Then I'll be coding the website as I read the CSS section. It doesn't worry me that I've spent 5 hours or so learning HTML & CSS from the book because I've plowed through the hours on FreeCodeCamp and the Tribute page + Personal Portfolio are supposed to take 50 hours. Putting that into perspective, an extra 10-15 hours learning HTML and CSS before coding the rest means I'll still probably finish with well under that amount, and I know they're using things in the example page that isn't taught on the site. Overall decent day, excited for tomorrow. I'm sure coding when I'm 17 will be just as exciting.
 
 **Link(s) to work**: NONE
+
+
+
+### Day 18: January 20, 2017 (Thursday)
+
+**Today's Progress**: Learned HTML from Jon Duckett's book.
+
+**Thoughts** Went over form controls today. The book displays them all on separate page, but listing them out next to each other definitely helped me see the connections between elements. I'm incredibly tired again today, but still enjoying it all.
+
+**Link(s) to work**: NONE
