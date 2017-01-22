@@ -151,7 +151,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 
 
-### Day 16: January 18, 2017 (Tuesday)
+### Day 16: January 18, 2017 (Wednesday)
 
 **Today's Progress**: Learned HTML from Jon Duckett's book.
 
@@ -161,7 +161,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 
 
-### Day 17: January 19, 2017 (Wednesday)
+### Day 17: January 19, 2017 (Thursday)
 
 **Today's Progress**: Learned HTML from Jon Duckett's book.
 
@@ -171,10 +171,20 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 
 
-### Day 18: January 20, 2017 (Thursday)
+### Day 18: January 20, 2017 (Friday)
 
 **Today's Progress**: Learned HTML from Jon Duckett's book.
 
 **Thoughts** Went over form controls today. The book displays them all on separate page, but listing them out next to each other definitely helped me see the connections between elements. I'm incredibly tired again today, but still enjoying it all.
+
+**Link(s) to work**: NONE
+
+
+
+### Day 19: January 21, 2017 (Saturday)
+
+**Today's Progress**: About finished HTML from Jon Duckett's book.
+
+**Thoughts** I'm aaaaaalmost done with Jon Duckett's HTML portion. I'm thinking I'll focus more on learning flash with Javascript for videos, especially because the book's using the script element and I'd like to know what all the information I'm pasting for encoding a video, etc. means. I'm a bit overwhelmed, but I at least I have a solid foundation. Maybe some review and organization tomorrow before I keep coding the portfolio page.
 
 **Link(s) to work**: NONE
