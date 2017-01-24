@@ -188,3 +188,23 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts** I'm aaaaaalmost done with Jon Duckett's HTML portion. I'm thinking I'll focus more on learning flash with Javascript for videos, especially because the book's using the script element and I'd like to know what all the information I'm pasting for encoding a video, etc. means. I'm a bit overwhelmed, but I at least I have a solid foundation. Maybe some review and organization tomorrow before I keep coding the portfolio page.
 
 **Link(s) to work**: NONE
+
+
+
+### Day 20: January 22, 2017 (Sunday)
+
+**Today's Progress**: Finished the HTML section.
+
+**Thoughts** So today I finished up the HTML section of the book and started the CSS portion. I'm especially excited for this part because CSS is where I have the most shortcomings where I can really transform my page. Can't wait!
+
+**Link(s) to work**: NONE
+
+
+
+### Day 21: January 23, 2017 (Monday)
+
+**Today's Progress**: Learned CSS from Jon Duckett's book, some experimentation in CodePen.
+
+**Thoughts** I mostly went through CSS today getting an intro to how it works. I think understanding the hierarchy and overall layout will be a bit difficult to understand, especially in practice. I guess it just takes time, and besides, I haven't really used it much yet!
+
+**Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
