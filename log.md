@@ -208,3 +208,14 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts** I mostly went through CSS today getting an intro to how it works. I think understanding the hierarchy and overall layout will be a bit difficult to understand, especially in practice. I guess it just takes time, and besides, I haven't really used it much yet!
 
 **Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 22: January 24, 2017 (Tuesday)
+
+**Today's Progress**: Learned CSS from Jon Duckett's book, some experimentation in CodePen.
+
+**Thoughts** So today was color day in CSS, so I tried replicating the CSS pH scale in the book with hex code just to familiarize myself with the colors and how hex works (no prior knowledge). I had to check the code afterward and realized the book gave a much more intuitive way to do it, although I decided to keep hex instead of rgb. Tomorrow will be text day, so I'll probably work on the portfolio page. It's about time I continue developing it anyhow... content with today. :)
+
+**Link(s) to work**: [pH Scale] (http://codepen.io/bhuffy/pen/dNzvyM)
+
