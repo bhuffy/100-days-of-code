@@ -219,3 +219,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Link(s) to work**: [pH Scale] (http://codepen.io/bhuffy/pen/dNzvyM)
 
+
+
+### Day 22: January 24, 2017 (Tuesday)
+
+**Today's Progress**: Learned CSS from Jon Duckett's book, some experimentation in CodePen.
+
+**Thoughts** While CSS seems daunting so far (learning many new things not introduced in freeCodeCamp), I love seeing all the daily CSS images and it's super inspiring. I definitely want to learn more of it. I'm slowly discovering just how extensive these languages are... 
+
+**Link(s) to work**: NONE
+
