@@ -221,7 +221,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 
 
-### Day 22: January 24, 2017 (Tuesday)
+### Day 23: January 25, 2017 (Wednesday)
 
 **Today's Progress**: Learned CSS from Jon Duckett's book, some experimentation in CodePen.
 
