@@ -232,7 +232,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 
 
-### Day 23: January 25, 2017 (Wednesday)
+### Day 24: January 26, 2017 (Thursday)
 
 **Today's Progress**: Learned CSS from Jon Duckett's book.
 
