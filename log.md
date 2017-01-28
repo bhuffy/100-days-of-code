@@ -250,3 +250,12 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Link(s) to work**: NONE
 
+
+
+### Day 26: January 28, 2017 (Saturday)
+
+**Today's Progress**: Learned CSS from Jon Duckett's book, experimenting on personal portfolio page.
+
+**Thoughts** Feeling awake enough today to experiment with the portfolio page. I might skip over to the layout portion of the book, because I still don't understand how to make a proper header that links down the page. It's a bit frustrating, because that's the main part that's been holding me back, but it must be in the back of the book because Duckett mentioned having the previous knowledge before starting. I'm not sure what my thoughts are but I might finish the project this week!
+
+**Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
