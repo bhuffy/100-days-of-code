@@ -239,3 +239,14 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts** Looking at getting some books solely on CSS... going to finish the current HTML & CSS book first, but I really enjoy it so far. I'm probably going to put together flashcards for all of these properties, selectors, etc. though because I'm nearly certain this information will fade unless I start building websites immediately, which still probably won't be enough to retain everything. Or perhaps I just feel this way because it's so much new information. Who knows?
 
 **Link(s) to work**: NONE
+
+
+
+### Day 25: January 27, 2017 (Friday)
+
+**Today's Progress**: Learned CSS from Jon Duckett's book.
+
+**Thoughts** Did this one really late... 6 minutes until tomorrow. I spent most of my session passively learning in a drowsy state. I'll probably have to review everything when I wake up haha...
+
+**Link(s) to work**: NONE
+
