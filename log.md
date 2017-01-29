@@ -259,3 +259,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts** Feeling awake enough today to experiment with the portfolio page. I might skip over to the layout portion of the book, because I still don't understand how to make a proper header that links down the page. It's a bit frustrating, because that's the main part that's been holding me back, but it must be in the back of the book because Duckett mentioned having the previous knowledge before starting. I'm not sure what my thoughts are but I might finish the project this week!
 
 **Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 27: January 29, 2017 (Sunday)
+
+**Today's Progress**: Learned CSS from Jon Duckett's book, created form experiment project.
+
+**Thoughts** Today I started learning about CSS for forms, tables, and lists. I struggle the most understanding forms and inputs because there's a lot of information, so I decided to try making a form with a new project on CodePen. I have to make on anyway for my portfolio website, so I might as well familiarize myself more by using the information. I haven't really done much with it yet because I started in the last 10 minutes, but we'll try to make it look good!
+
+**Link(s) to work**: [Form Experiment] (http://codepen.io/bhuffy/full/PWEoEM/)
