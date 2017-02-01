@@ -280,3 +280,14 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts** Today I practically just messed around with forms and tried to create my own. It's very similar to the model done in Jon Duckett's book (I peeked at some of his code) but I made it relatively different. I didn't even read a page today, though I know I'm only a few pages away from the layout portion, which means I'll be building my portfolio soon. The one weird problem I had today was trying out boostrap after I'd already been working on the project. It really changed things up, so I decided to get rid of it. That might be a problem if I use bootstrap for the portfolio website... nevertheless, I'm excited for tomorrow.
 
 **Link(s) to work**: [Form Experiment] (http://codepen.io/bhuffy/full/PWEoEM/)
+
+
+
+### Day 28: January 30, 2017 (Monday)
+
+**Today's Progress**: Learned CSS from Jon Duckett's book.
+
+**Thoughts** Today (yesterday) I only did 20 minutes, though the minutes will still carry so I have more to tomorrow. I started the layout section of Jon Duckett's book (section III). This next section is on layout, so I'll probably just have to review everything a few times over to keep getting the terms, properties, methods, etc. in my mind.
+
+**Link(s) to work**: NONE
+
