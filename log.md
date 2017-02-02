@@ -283,7 +283,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 
 
-### Day 28: January 30, 2017 (Monday)
+### Day 29: January 31, 2017 (Tuesday)
 
 **Today's Progress**: Learned CSS from Jon Duckett's book.
 
@@ -291,3 +291,12 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Link(s) to work**: NONE
 
+
+
+### Day 30: February 1, 2017 (Wednesday)
+
+**Today's Progress**: Learned CSS from Jon Duckett's book.
+
+**Thoughts** Today I spend quite a bit of time experimenting with positioning. Conceptually I understand it but it's somewhat difficult in pratice, or at least integrating it into an existing project. I wasn't as productive today either...
+
+**Link(s) to work**: NONE
