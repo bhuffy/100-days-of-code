@@ -125,7 +125,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned HTML & CSS from Jon Duckett's book.
 
-**Thoughts** I think once I finish the HTML section of the book I'll start the portfolio page (splitting half between learning CSS and coding on codepen.io). I browsed codepen and found some super awesome stuff today done only with HTML and CSS, which is a huge inspiration to learn more about HTML and CSS before moving onto Javascript. I suspect I won't finish the portfolio website until 1-2 weeks from now. Oh well... definitely having fun!
+**Thoughts**: I think once I finish the HTML section of the book I'll start the portfolio page (splitting half between learning CSS and coding on codepen.io). I browsed codepen and found some super awesome stuff today done only with HTML and CSS, which is a huge inspiration to learn more about HTML and CSS before moving onto Javascript. I suspect I won't finish the portfolio website until 1-2 weeks from now. Oh well... definitely having fun!
 
 **Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
 
@@ -135,7 +135,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned HTML & CSS from Jon Duckett's book, started Portfolio Page.
 
-**Thoughts** I read through some more of the HTML & CSS book, but I also started the page the last 10 minutes because I figure I need to work or else I'll start forgetting some things. I learned a lot more about the structure of HTML and links today, including how I might organize a site map, which is useful for a portfolio page. Tomorrow I'll probably start splitting 50/50 with coding and the book.
+**Thoughts**: I read through some more of the HTML & CSS book, but I also started the page the last 10 minutes because I figure I need to work or else I'll start forgetting some things. I learned a lot more about the structure of HTML and links today, including how I might organize a site map, which is useful for a portfolio page. Tomorrow I'll probably start splitting 50/50 with coding and the book.
 
 **Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
 
@@ -145,7 +145,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned HTML & CSS from Jon Duckett's book, experimented with Portfolio Page.
 
-**Thoughts** I read through even more of the HTML & CSS book, and experimented a little by adding an id attribute to link to different parts of my page (not going to make different ones for my portfolio, just one). I ran into a bit of trouble but I might use buttons instead. I think I might need 2-3 more days of learning the HTML section before I'm done with that, and by that point I'll probably put together the structure of the portfolio page as well. I might set aside a day to create content for it (gather images, text, outline). I definitely recommend the book though, it's so helpful! Might buy his book on Javascript and jQuery for the next unit when I start javascript, but I probably shouldn't get too far ahead of myself...
+**Thoughts**: I read through even more of the HTML & CSS book, and experimented a little by adding an id attribute to link to different parts of my page (not going to make different ones for my portfolio, just one). I ran into a bit of trouble but I might use buttons instead. I think I might need 2-3 more days of learning the HTML section before I'm done with that, and by that point I'll probably put together the structure of the portfolio page as well. I might set aside a day to create content for it (gather images, text, outline). I definitely recommend the book though, it's so helpful! Might buy his book on Javascript and jQuery for the next unit when I start javascript, but I probably shouldn't get too far ahead of myself...
 
 **Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
 
@@ -155,7 +155,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned HTML from Jon Duckett's book.
 
-**Thoughts** Being super tired today (coasting on 4.5 hours sleep), it's been hard focusing, so I've just been compiling notes and learning new stuff that I can review later. I should probably sleep and do more hours tomorrow, but that wouldn't comply with the challenge, and constistency is key... tomorrow will hopefully be a day of actual coding. :)
+**Thoughts**: Being super tired today (coasting on 4.5 hours sleep), it's been hard focusing, so I've just been compiling notes and learning new stuff that I can review later. I should probably sleep and do more hours tomorrow, but that wouldn't comply with the challenge, and constistency is key... tomorrow will hopefully be a day of actual coding. :)
 
 **Link(s) to work**: NONE
 
@@ -165,7 +165,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned HTML from Jon Duckett's book.
 
-**Thoughts** Today was alright. It's my birthday, but it feels pretty normal. I spent today learning about different forms in HTML and their attributes. It's astounding how much information there is. I'm going to definitely create quizlet flashcards when I finish the HTML section. I think I'll finish the HTML section in 2 days or less. Then I'll be coding the website as I read the CSS section. It doesn't worry me that I've spent 5 hours or so learning HTML & CSS from the book because I've plowed through the hours on FreeCodeCamp and the Tribute page + Personal Portfolio are supposed to take 50 hours. Putting that into perspective, an extra 10-15 hours learning HTML and CSS before coding the rest means I'll still probably finish with well under that amount, and I know they're using things in the example page that isn't taught on the site. Overall decent day, excited for tomorrow. I'm sure coding when I'm 17 will be just as exciting.
+**Thoughts**: Today was alright. It's my birthday, but it feels pretty normal. I spent today learning about different forms in HTML and their attributes. It's astounding how much information there is. I'm going to definitely create quizlet flashcards when I finish the HTML section. I think I'll finish the HTML section in 2 days or less. Then I'll be coding the website as I read the CSS section. It doesn't worry me that I've spent 5 hours or so learning HTML & CSS from the book because I've plowed through the hours on FreeCodeCamp and the Tribute page + Personal Portfolio are supposed to take 50 hours. Putting that into perspective, an extra 10-15 hours learning HTML and CSS before coding the rest means I'll still probably finish with well under that amount, and I know they're using things in the example page that isn't taught on the site. Overall decent day, excited for tomorrow. I'm sure coding when I'm 17 will be just as exciting.
 
 **Link(s) to work**: NONE
 
@@ -175,7 +175,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned HTML from Jon Duckett's book.
 
-**Thoughts** Went over form controls today. The book displays them all on separate page, but listing them out next to each other definitely helped me see the connections between elements. I'm incredibly tired again today, but still enjoying it all.
+**Thoughts**: Went over form controls today. The book displays them all on separate page, but listing them out next to each other definitely helped me see the connections between elements. I'm incredibly tired again today, but still enjoying it all.
 
 **Link(s) to work**: NONE
 
@@ -185,7 +185,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: About finished HTML from Jon Duckett's book.
 
-**Thoughts** I'm aaaaaalmost done with Jon Duckett's HTML portion. I'm thinking I'll focus more on learning flash with Javascript for videos, especially because the book's using the script element and I'd like to know what all the information I'm pasting for encoding a video, etc. means. I'm a bit overwhelmed, but I at least I have a solid foundation. Maybe some review and organization tomorrow before I keep coding the portfolio page.
+**Thoughts**: I'm aaaaaalmost done with Jon Duckett's HTML portion. I'm thinking I'll focus more on learning flash with Javascript for videos, especially because the book's using the script element and I'd like to know what all the information I'm pasting for encoding a video, etc. means. I'm a bit overwhelmed, but I at least I have a solid foundation. Maybe some review and organization tomorrow before I keep coding the portfolio page.
 
 **Link(s) to work**: NONE
 
@@ -195,7 +195,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Finished the HTML section.
 
-**Thoughts** So today I finished up the HTML section of the book and started the CSS portion. I'm especially excited for this part because CSS is where I have the most shortcomings where I can really transform my page. Can't wait!
+**Thoughts**: So today I finished up the HTML section of the book and started the CSS portion. I'm especially excited for this part because CSS is where I have the most shortcomings where I can really transform my page. Can't wait!
 
 **Link(s) to work**: NONE
 
@@ -205,7 +205,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned CSS from Jon Duckett's book, some experimentation in CodePen.
 
-**Thoughts** I mostly went through CSS today getting an intro to how it works. I think understanding the hierarchy and overall layout will be a bit difficult to understand, especially in practice. I guess it just takes time, and besides, I haven't really used it much yet!
+**Thoughts**: I mostly went through CSS today getting an intro to how it works. I think understanding the hierarchy and overall layout will be a bit difficult to understand, especially in practice. I guess it just takes time, and besides, I haven't really used it much yet!
 
 **Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
 
@@ -215,7 +215,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned CSS from Jon Duckett's book, some experimentation in CodePen.
 
-**Thoughts** So today was color day in CSS, so I tried replicating the CSS pH scale in the book with hex code just to familiarize myself with the colors and how hex works (no prior knowledge). I had to check the code afterward and realized the book gave a much more intuitive way to do it, although I decided to keep hex instead of rgb. Tomorrow will be text day, so I'll probably work on the portfolio page. It's about time I continue developing it anyhow... content with today. :)
+**Thoughts**: So today was color day in CSS, so I tried replicating the CSS pH scale in the book with hex code just to familiarize myself with the colors and how hex works (no prior knowledge). I had to check the code afterward and realized the book gave a much more intuitive way to do it, although I decided to keep hex instead of rgb. Tomorrow will be text day, so I'll probably work on the portfolio page. It's about time I continue developing it anyhow... content with today. :)
 
 **Link(s) to work**: [pH Scale] (http://codepen.io/bhuffy/pen/dNzvyM)
 
@@ -225,7 +225,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned CSS from Jon Duckett's book, some experimentation in CodePen.
 
-**Thoughts** While CSS seems daunting so far (learning many new things not introduced in freeCodeCamp), I love seeing all the daily CSS images and it's super inspiring. I definitely want to learn more of it. I'm slowly discovering just how extensive these languages are... 
+**Thoughts**: While CSS seems daunting so far (learning many new things not introduced in freeCodeCamp), I love seeing all the daily CSS images and it's super inspiring. I definitely want to learn more of it. I'm slowly discovering just how extensive these languages are... 
 
 **Link(s) to work**: NONE
 
@@ -236,7 +236,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned CSS from Jon Duckett's book.
 
-**Thoughts** Looking at getting some books solely on CSS... going to finish the current HTML & CSS book first, but I really enjoy it so far. I'm probably going to put together flashcards for all of these properties, selectors, etc. though because I'm nearly certain this information will fade unless I start building websites immediately, which still probably won't be enough to retain everything. Or perhaps I just feel this way because it's so much new information. Who knows?
+**Thoughts**: Looking at getting some books solely on CSS... going to finish the current HTML & CSS book first, but I really enjoy it so far. I'm probably going to put together flashcards for all of these properties, selectors, etc. though because I'm nearly certain this information will fade unless I start building websites immediately, which still probably won't be enough to retain everything. Or perhaps I just feel this way because it's so much new information. Who knows?
 
 **Link(s) to work**: NONE
 
@@ -246,7 +246,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned CSS from Jon Duckett's book.
 
-**Thoughts** Did this one really late... 6 minutes until tomorrow. I spent most of my session passively learning in a drowsy state. I'll probably have to review everything when I wake up haha...
+**Thoughts**: Did this one really late... 6 minutes until tomorrow. I spent most of my session passively learning in a drowsy state. I'll probably have to review everything when I wake up haha...
 
 **Link(s) to work**: NONE
 
@@ -256,7 +256,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned CSS from Jon Duckett's book, experimenting on personal portfolio page.
 
-**Thoughts** Feeling awake enough today to experiment with the portfolio page. I might skip over to the layout portion of the book, because I still don't understand how to make a proper header that links down the page. It's a bit frustrating, because that's the main part that's been holding me back, but it must be in the back of the book because Duckett mentioned having the previous knowledge before starting. I'm not sure what my thoughts are but I might finish the project this week!
+**Thoughts**: Feeling awake enough today to experiment with the portfolio page. I might skip over to the layout portion of the book, because I still don't understand how to make a proper header that links down the page. It's a bit frustrating, because that's the main part that's been holding me back, but it must be in the back of the book because Duckett mentioned having the previous knowledge before starting. I'm not sure what my thoughts are but I might finish the project this week!
 
 **Link(s) to work**: [Personal Portfolio Page] (http://codepen.io/bhuffy/full/WRxqyw/)
 
@@ -266,7 +266,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned CSS from Jon Duckett's book, created form experiment project.
 
-**Thoughts** Today I started learning about CSS for forms, tables, and lists. I struggle the most understanding forms and inputs because there's a lot of information, so I decided to try making a form with a new project on CodePen. I have to make on anyway for my portfolio website, so I might as well familiarize myself more by using the information. I haven't really done much with it yet because I started in the last 10 minutes, but we'll try to make it look good!
+**Thoughts**: Today I started learning about CSS for forms, tables, and lists. I struggle the most understanding forms and inputs because there's a lot of information, so I decided to try making a form with a new project on CodePen. I have to make on anyway for my portfolio website, so I might as well familiarize myself more by using the information. I haven't really done much with it yet because I started in the last 10 minutes, but we'll try to make it look good!
 
 **Link(s) to work**: [Form Experiment] (http://codepen.io/bhuffy/full/PWEoEM/)
 
@@ -277,7 +277,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Experimented with forms project.
 
-**Thoughts** Today I practically just messed around with forms and tried to create my own. It's very similar to the model done in Jon Duckett's book (I peeked at some of his code) but I made it relatively different. I didn't even read a page today, though I know I'm only a few pages away from the layout portion, which means I'll be building my portfolio soon. The one weird problem I had today was trying out boostrap after I'd already been working on the project. It really changed things up, so I decided to get rid of it. That might be a problem if I use bootstrap for the portfolio website... nevertheless, I'm excited for tomorrow.
+**Thoughts**: Today I practically just messed around with forms and tried to create my own. It's very similar to the model done in Jon Duckett's book (I peeked at some of his code) but I made it relatively different. I didn't even read a page today, though I know I'm only a few pages away from the layout portion, which means I'll be building my portfolio soon. The one weird problem I had today was trying out boostrap after I'd already been working on the project. It really changed things up, so I decided to get rid of it. That might be a problem if I use bootstrap for the portfolio website... nevertheless, I'm excited for tomorrow.
 
 **Link(s) to work**: [Form Experiment] (http://codepen.io/bhuffy/full/PWEoEM/)
 
@@ -287,7 +287,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned CSS from Jon Duckett's book.
 
-**Thoughts** Today (yesterday) I only did 20 minutes, though the minutes will still carry so I have more to tomorrow. I started the layout section of Jon Duckett's book (section III). This next section is on layout, so I'll probably just have to review everything a few times over to keep getting the terms, properties, methods, etc. in my mind.
+**Thoughts**: Today (yesterday) I only did 20 minutes, though the minutes will still carry so I have more to tomorrow. I started the layout section of Jon Duckett's book (section III). This next section is on layout, so I'll probably just have to review everything a few times over to keep getting the terms, properties, methods, etc. in my mind.
 
 **Link(s) to work**: NONE
 
@@ -297,16 +297,26 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Today's Progress**: Learned CSS from Jon Duckett's book.
 
-**Thoughts** Today I spend quite a bit of time experimenting with positioning. Conceptually I understand it but it's somewhat difficult in pratice, or at least integrating it into an existing project. I wasn't as productive today either...
+**Thoughts**: Today I spend quite a bit of time experimenting with positioning. Conceptually I understand it but it's somewhat difficult in pratice, or at least integrating it into an existing project. I wasn't as productive today either...
 
 **Link(s) to work**: NONE
 
 
 
-### Day 30: February 2-3, 2017 (Thursday & Friday)
+### Day 31-32: February 2-3, 2017 (Thursday & Friday)
 
 **Today's Progress**: Learned CSS from Jon Duckett's book, experimented with personal portfolio website.
 
-**Thoughts** Yesterday was busy so I only did scattered learning on Enki (mobile app that teaches programming) and today was able to code and read. I decided to clump these two days together since I don't really know just how much time I spent yesterday and it wasn't a complete day. Anyway, I'm finally figuring out how to work the personal portfolio website. Now that I'm almost done with Jon Duckett's book I'm not familiar with Boostrap or jQuery that much anymore... maybe I'll have to review those. Or maybe I won't use boostrap for this project. I'll be finishing the layout portion of the book and hopefully some background image stuff. I'm thinking about making a gradient background for the website, but if not I have the colors picked out! 
+**Thoughts**: Yesterday was busy so I only did scattered learning on Enki (mobile app that teaches programming) and today was able to code and read. I decided to clump these two days together since I don't really know just how much time I spent yesterday and it wasn't a complete day. Anyway, I'm finally figuring out how to work the personal portfolio website. Now that I'm almost done with Jon Duckett's book I'm not familiar with Boostrap or jQuery that much anymore... maybe I'll have to review those. Or maybe I won't use boostrap for this project. I'll be finishing the layout portion of the book and hopefully some background image stuff. I'm thinking about making a gradient background for the website, but if not I have the colors picked out! 
+
+**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 33: February 4, 2017 (Saturday)
+
+**Today's Progress**: Finished layout section from Jon Duckett's book, addressing header/navigation problems on website.
+
+**Thoughts**: Finished up the layout section of Jon Duckett's book. This means I only have the images, html5, and design process chapters left! I might spend quite a bit of time reviewing afterwards, or reread the book at some point in the near future to solidify all of the jumbled up knowledge swimming around my head. I spend a great deal of time today trying to figure out the header navigation system. I can't seem to get the h1 element and navigation aligned. I've never seen anyone use a table for it, but the book did use a grid with the 960.gs framework. Not sure what to do but doing research online...
 
 **Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
