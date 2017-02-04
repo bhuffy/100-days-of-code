@@ -300,3 +300,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts** Today I spend quite a bit of time experimenting with positioning. Conceptually I understand it but it's somewhat difficult in pratice, or at least integrating it into an existing project. I wasn't as productive today either...
 
 **Link(s) to work**: NONE
+
+
+
+### Day 30: February 2-3, 2017 (Thursday & Friday)
+
+**Today's Progress**: Learned CSS from Jon Duckett's book, experimented with personal portfolio website.
+
+**Thoughts** Yesterday was busy so I only did scattered learning on Enki (mobile app that teaches programming) and today was able to code and read. I decided to clump these two days together since I don't really know just how much time I spent yesterday and it wasn't a complete day. Anyway, I'm finally figuring out how to work the personal portfolio website. Now that I'm almost done with Jon Duckett's book I'm not familiar with Boostrap or jQuery that much anymore... maybe I'll have to review those. Or maybe I won't use boostrap for this project. I'll be finishing the layout portion of the book and hopefully some background image stuff. I'm thinking about making a gradient background for the website, but if not I have the colors picked out! 
+
+**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
