@@ -320,3 +320,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Finished up the layout section of Jon Duckett's book. This means I only have the images, html5, and design process chapters left! I might spend quite a bit of time reviewing afterwards, or reread the book at some point in the near future to solidify all of the jumbled up knowledge swimming around my head. I spend a great deal of time today trying to figure out the header navigation system. I can't seem to get the h1 element and navigation aligned. I've never seen anyone use a table for it, but the book did use a grid with the 960.gs framework. Not sure what to do but doing research online...
 
 **Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 34: February 5, 2017 (Sunday)
+
+**Today's Progress**: Applied to FCC Chingu cohort & learned about background images in book.
+
+**Thoughts**: Today wasn't much coding, but I'm glad I spent time planning out my future of coding. I don't think I want to do this for a job, per-se, but certainly want to make stuff with it in my free time. It will certainly come in handy when I enter the startup world. Good, interesting, busy day.
+
+**Link(s) to work**: NONE
