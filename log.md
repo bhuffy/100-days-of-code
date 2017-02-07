@@ -330,3 +330,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Today wasn't much coding, but I'm glad I spent time planning out my future of coding. I don't think I want to do this for a job, per-se, but certainly want to make stuff with it in my free time. It will certainly come in handy when I enter the startup world. Good, interesting, busy day.
 
 **Link(s) to work**: NONE
+
+
+
+### Day 35: February 6, 2017 (Monday)
+
+**Today's Progress**: Worked with images & heaer on portfolio website, learnedin Jon Duckett's book.
+
+**Thoughts**: I spend the majority of my day today trying to figure out how the header is supposed to work, and a little bit of learning HTML5 from Jon Duckett's book. I'll finish the book in another few days, but I'm spending more time just trying to figure out the site. Maybe I should have (or should?) start from scratch, because it's not going well and I'm much more organized. Or perhaps I'll just keep going at it. At least it's good practice.
+
+**Link(s) to work**: NONE
