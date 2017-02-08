@@ -340,3 +340,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: I spend the majority of my day today trying to figure out how the header is supposed to work, and a little bit of learning HTML5 from Jon Duckett's book. I'll finish the book in another few days, but I'm spending more time just trying to figure out the site. Maybe I should have (or should?) start from scratch, because it's not going well and I'm much more organized. Or perhaps I'll just keep going at it. At least it's good practice.
 
 **Link(s) to work**: NONE
+
+
+
+### Day 36: February 7, 2017 (Tuesday)
+
+**Today's Progress**: Read Process & Design section of Jon Duckett's book.
+
+**Thoughts**: I felt today was somehow slow even though it seems like I read quite a lot. I'm feeling good about the application for this section beacuse it seems like my ideas generally follow the advice given. Perhaps my previous design experiences somehow relate...? :)
+
+**Link(s) to work**: NONE
