@@ -350,3 +350,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: I felt today was somehow slow even though it seems like I read quite a lot. I'm feeling good about the application for this section beacuse it seems like my ideas generally follow the advice given. Perhaps my previous design experiences somehow relate...? :)
 
 **Link(s) to work**: NONE
+
+
+
+### Day 37: February 8, 2017 (Wednesday)
+
+**Today's Progress**: Finished HTML & CSS book by Jon Duckett. Kept working on personal portfolio website.
+
+**Thoughts**: I finished the book! I'll most likely make some flashcards and tidy up my notes after I finish the website. I can't seem to understand a few weird parts of the code. I think the div element is separating each section (about, portfolio, contact sections) by adding some sort of white space, but I can't seem to get rid of it! Also having a problem aligning navigation on bottom of header. They're probably easy fixes but I've been trying to get them on my own. Anyway, it's a good day for coding (even if I'm packed with schoolwork).
+
+**Link(s) to work**: NONE
