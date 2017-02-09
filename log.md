@@ -360,3 +360,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: I finished the book! I'll most likely make some flashcards and tidy up my notes after I finish the website. I can't seem to understand a few weird parts of the code. I think the div element is separating each section (about, portfolio, contact sections) by adding some sort of white space, but I can't seem to get rid of it! Also having a problem aligning navigation on bottom of header. They're probably easy fixes but I've been trying to get them on my own. Anyway, it's a good day for coding (even if I'm packed with schoolwork).
 
 **Link(s) to work**: NONE
+
+
+
+### Day 38: February 9, 2017 (Thursday)
+
+**Today's Progress**: Worked on debugging div elements in Personal Portfolio Website
+
+**Thoughts**: Today I spent about 40 minutes trying to solve a problem with sections for my personal portfolio website through freeCodeCamp. For whatever reason, I couldn't figure it out. Eventually I resorted to asking some people in the freeCodeCamp chat and one of them told me to set the bottom margin to -40px for my sections. Supposedly it's a boostrap thing, but when I disabled bootstrap to test it was still there. It's something very odd that I'll probably have to look into, and somewhat troublesome... at least that's fixed. Next fix is the header alignment — much easier!
+
+**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
