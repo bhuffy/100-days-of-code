@@ -370,3 +370,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Today I spent about 40 minutes trying to solve a problem with sections for my personal portfolio website through freeCodeCamp. For whatever reason, I couldn't figure it out. Eventually I resorted to asking some people in the freeCodeCamp chat and one of them told me to set the bottom margin to -40px for my sections. Supposedly it's a boostrap thing, but when I disabled bootstrap to test it was still there. It's something very odd that I'll probably have to look into, and somewhat troublesome... at least that's fixed. Next fix is the header alignment — much easier!
 
 **Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 39-40: February 10-11, 2017 (Friday & Saturday)
+
+**Today's Progress**: Worked on header, contact form, formatting
+
+**Thoughts**: I missed yesterday (Friday's) code, so I doubled up on today. I worked on correcting the header (now it's finished), started the contact form (almost done), and had to fix some formatting problems with the header elements controlling each of the content sections. It's strange how I forgot quite a bit missing a few days but it's coming back. 
+
+**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
