@@ -380,3 +380,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: I missed yesterday (Friday's) code, so I doubled up on today. I worked on correcting the header (now it's finished), started the contact form (almost done), and had to fix some formatting problems with the header elements controlling each of the content sections. It's strange how I forgot quite a bit missing a few days but it's coming back. 
 
 **Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 41: February 12, 2017 (Sunday)
+
+**Today's Progress**: Worked on style, design and layout for personal portfolio website
+
+**Thoughts**: Not much today but experimentation. Luckily (after some trouble styling the submit button), I was able to focus on the design more than the actual code part. I still find myself thinking about what code I actually need, but some properties, values, selectors, etc. are starting to become ingrained in my mind. Slowly making progress, but happy with results so far!
+
+**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
