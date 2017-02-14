@@ -390,3 +390,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Not much today but experimentation. Luckily (after some trouble styling the submit button), I was able to focus on the design more than the actual code part. I still find myself thinking about what code I actually need, but some properties, values, selectors, etc. are starting to become ingrained in my mind. Slowly making progress, but happy with results so far!
 
 **Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 42: February 13, 2017 (Monday)
+
+**Today's Progress**: Tried to make website more responsive and worked on contact form.
+
+**Thoughts**: Today was frustrating. I realized a lot of stuff was not responsive (especially my header), and my contact form was also a bit messed up. I finally figured out how to fix some of it, but am still practically in the same position as yesterday but with a few tweaks to make it responsive. This is a longer process than I thought. However, I think the whole process will go 10x faster the next site I try to build.
+
+**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
