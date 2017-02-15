@@ -400,3 +400,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Today was frustrating. I realized a lot of stuff was not responsive (especially my header), and my contact form was also a bit messed up. I finally figured out how to fix some of it, but am still practically in the same position as yesterday but with a few tweaks to make it responsive. This is a longer process than I thought. However, I think the whole process will go 10x faster the next site I try to build.
 
 **Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 43: February 14, 2017 (Tuesday)
+
+**Today's Progress**: Finished contact form and experimented with reformatting for responsiveness.
+
+**Thoughts**: I finished the contact portion of my project, done with the header, which means I have 3/5 sections left, which is mostly just content. I'm pretty happy with that. I guess we'll see what happens!
+
+**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
