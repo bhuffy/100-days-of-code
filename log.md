@@ -410,3 +410,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: I finished the contact portion of my project, done with the header, which means I have 3/5 sections left, which is mostly just content. I'm pretty happy with that. I guess we'll see what happens!
 
 **Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 44: February 15, 2017 (Wednesday)
+
+**Today's Progress**: Finished About section of personal portfolio website project.
+
+**Thoughts**: I spent a great deal of today just trying to figure out how to float two elements together (an image of myself and a short descriptive sentence) but I CANNOT for the life of me figure out how to make it response. The image always shifts below at a certain point. I've thoguht about using bootstrap to make it two columns in one row to align it but I'd like to know how to use float properly before I do any boostrap or jquery. Anyway, I probably have 1-2 days working on the portfolio section and then trying to make it all responsive after that. We'll see!
+
+**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
