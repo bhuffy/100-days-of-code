@@ -423,10 +423,20 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 
 
-### Day 45-47: February 15, 2017 (Wednesday)
+### Day 45-47: February 16-18, 2017 (Thursday-Saturday)
 
 **Today's Progress**: Finished portfolio section, addressing responsiveness, social media section.
 
 **Thoughts**: So I completely broke the 100DaysOfCode rules... 2 days without code! Two days ago I was borderline going to pass out due to sleep deprivation, yesterday I was absent the entire day until this morning, so today was simply churning out 2.25 hours (to cover all three). I'm very disappointed in today's project. I'm practically finished. The only thing that stands in my way is... responsiveness. It's incredibly hard to make it my about section responsive, and my social media buttons are causing trouble because I'm split between using bootstrap or just using images. I'm probably going to go the image route, but then I need to figure out how to credit the authors (which I'd rather not have on my page). The most important part is that I I still put in the time and didn't wave it off. Anyway, it shouldn't take more than one or two more days. As long as it takes to get the responsiveness and social media figured out...
+
+**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 48: February 19, 2017 (Sunday)
+
+**Today's Progress**: Fixed about section, worked on social media section.
+
+**Thoughts**: I got a lot of stuff done today! Only thing left is to align social media buttons to the center, fix the link styling, edit footer, and credit images. I can't believe I was able to figure out this whole alignment problem today, but it's about time. Definitely happy with my progress and I suppose Tuesday I'll finish the portfolio page and start learning Javascript!
 
 **Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
