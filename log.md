@@ -440,3 +440,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: I got a lot of stuff done today! Only thing left is to align social media buttons to the center, fix the link styling, edit footer, and credit images. I can't believe I was able to figure out this whole alignment problem today, but it's about time. Definitely happy with my progress and I suppose Tuesday I'll finish the portfolio page and start learning Javascript!
 
 **Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+### Day 49: February 20, 2017 (Monday)
+
+**Today's Progress**: Finished personal portfolio website project!
+
+**Thoughts**: SOOOOOOOOO happy I finished this. There are still some problems with responsiveness, but I'm also excited that I'll be starting to learn Javascript and moving on! Besides, I'll be updating it over time. Just happy... :)
+
+**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
