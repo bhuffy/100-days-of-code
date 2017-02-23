@@ -450,3 +450,24 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: SOOOOOOOOO happy I finished this. There are still some problems with responsiveness, but I'm also excited that I'll be starting to learn Javascript and moving on! Besides, I'll be updating it over time. Just happy... :)
 
 **Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+
+
+
+
+### Day 50: February 21, 2017 (Tuesday)
+
+**Today's Progress**: Started learning Javascript
+
+**Thoughts**: Turns out didn't finish the last project, because it's not mobile responsive AT ALL, so I'll certainly be learning Javascript as a focus while maybe editing the portfolio project often such as every day or every other day.
+
+**Link(s) to work**: NONE
+
+
+
+### Day 51: February 22, 2017 (Wednesday)
+
+**Today's Progress**: Learning Javascript with SoloLearn mobile app & some FCC.
+
+**Thoughts**: Due to being absent with a 1hr chunk of time conveniently placed where internet access was not ideal, I decided to try learning on mobible through some apps. SoloLearn is one of the apps I have downloaded. So far they have a very thorough introduction to Javascript. I've noticed that out of the 4 Javascript programs/apps I've started learning (not all recently) started teaching with different things at different levels. It's interesting to see different approaches.
+
+**Link(s) to work**: NONE
