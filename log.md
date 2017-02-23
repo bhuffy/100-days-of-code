@@ -309,7 +309,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Thoughts**: Yesterday was busy so I only did scattered learning on Enki (mobile app that teaches programming) and today was able to code and read. I decided to clump these two days together since I don't really know just how much time I spent yesterday and it wasn't a complete day. Anyway, I'm finally figuring out how to work the personal portfolio website. Now that I'm almost done with Jon Duckett's book I'm not familiar with Boostrap or jQuery that much anymore... maybe I'll have to review those. Or maybe I won't use boostrap for this project. I'll be finishing the layout portion of the book and hopefully some background image stuff. I'm thinking about making a gradient background for the website, but if not I have the colors picked out! 
 
-**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Website] (http://codepen.io/bhuffy/full/WRxqyw/)
 
 
 
@@ -319,7 +319,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Thoughts**: Finished up the layout section of Jon Duckett's book. This means I only have the images, html5, and design process chapters left! I might spend quite a bit of time reviewing afterwards, or reread the book at some point in the near future to solidify all of the jumbled up knowledge swimming around my head. I spend a great deal of time today trying to figure out the header navigation system. I can't seem to get the h1 element and navigation aligned. I've never seen anyone use a table for it, but the book did use a grid with the 960.gs framework. Not sure what to do but doing research online...
 
-**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Website] (http://codepen.io/bhuffy/full/WRxqyw/)
 
 
 
@@ -369,7 +369,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Thoughts**: Today I spent about 40 minutes trying to solve a problem with sections for my personal portfolio website through freeCodeCamp. For whatever reason, I couldn't figure it out. Eventually I resorted to asking some people in the freeCodeCamp chat and one of them told me to set the bottom margin to -40px for my sections. Supposedly it's a boostrap thing, but when I disabled bootstrap to test it was still there. It's something very odd that I'll probably have to look into, and somewhat troublesome... at least that's fixed. Next fix is the header alignment — much easier!
 
-**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Website] (http://codepen.io/bhuffy/full/WRxqyw/)
 
 
 
@@ -379,7 +379,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Thoughts**: I missed yesterday (Friday's) code, so I doubled up on today. I worked on correcting the header (now it's finished), started the contact form (almost done), and had to fix some formatting problems with the header elements controlling each of the content sections. It's strange how I forgot quite a bit missing a few days but it's coming back. 
 
-**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Website] (http://codepen.io/bhuffy/full/WRxqyw/)
 
 
 
@@ -389,7 +389,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Thoughts**: Not much today but experimentation. Luckily (after some trouble styling the submit button), I was able to focus on the design more than the actual code part. I still find myself thinking about what code I actually need, but some properties, values, selectors, etc. are starting to become ingrained in my mind. Slowly making progress, but happy with results so far!
 
-**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Website] (http://codepen.io/bhuffy/full/WRxqyw/)
 
 
 
@@ -399,7 +399,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Thoughts**: Today was frustrating. I realized a lot of stuff was not responsive (especially my header), and my contact form was also a bit messed up. I finally figured out how to fix some of it, but am still practically in the same position as yesterday but with a few tweaks to make it responsive. This is a longer process than I thought. However, I think the whole process will go 10x faster the next site I try to build.
 
-**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Website] (http://codepen.io/bhuffy/full/WRxqyw/)
 
 
 
@@ -409,7 +409,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Thoughts**: I finished the contact portion of my project, done with the header, which means I have 3/5 sections left, which is mostly just content. I'm pretty happy with that. I guess we'll see what happens!
 
-**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Website] (http://codepen.io/bhuffy/full/WRxqyw/)
 
 
 
@@ -419,7 +419,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Thoughts**: I spent a great deal of today just trying to figure out how to float two elements together (an image of myself and a short descriptive sentence) but I CANNOT for the life of me figure out how to make it response. The image always shifts below at a certain point. I've thoguht about using bootstrap to make it two columns in one row to align it but I'd like to know how to use float properly before I do any boostrap or jquery. Anyway, I probably have 1-2 days working on the portfolio section and then trying to make it all responsive after that. We'll see!
 
-**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Website] (http://codepen.io/bhuffy/full/WRxqyw/)
 
 
 
@@ -429,7 +429,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Thoughts**: So I completely broke the 100DaysOfCode rules... 2 days without code! Two days ago I was borderline going to pass out due to sleep deprivation, yesterday I was absent the entire day until this morning, so today was simply churning out 2.25 hours (to cover all three). I'm very disappointed in today's project. I'm practically finished. The only thing that stands in my way is... responsiveness. It's incredibly hard to make it my about section responsive, and my social media buttons are causing trouble because I'm split between using bootstrap or just using images. I'm probably going to go the image route, but then I need to figure out how to credit the authors (which I'd rather not have on my page). The most important part is that I I still put in the time and didn't wave it off. Anyway, it shouldn't take more than one or two more days. As long as it takes to get the responsiveness and social media figured out...
 
-**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Website] (http://codepen.io/bhuffy/full/WRxqyw/)
 
 
 
@@ -439,7 +439,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Thoughts**: I got a lot of stuff done today! Only thing left is to align social media buttons to the center, fix the link styling, edit footer, and credit images. I can't believe I was able to figure out this whole alignment problem today, but it's about time. Definitely happy with my progress and I suppose Tuesday I'll finish the portfolio page and start learning Javascript!
 
-**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Website] (http://codepen.io/bhuffy/full/WRxqyw/)
 
 
 
@@ -449,7 +449,7 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Thoughts**: SOOOOOOOOO happy I finished this. There are still some problems with responsiveness, but I'm also excited that I'll be starting to learn Javascript and moving on! Besides, I'll be updating it over time. Just happy... :)
 
-**Link(s) to work**: [Personal Portfolio Website](http://codepen.io/bhuffy/full/WRxqyw/)
+**Link(s) to work**: [Personal Portfolio Website] (http://codepen.io/bhuffy/full/WRxqyw/)
 
 
 
@@ -471,3 +471,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Due to being absent with a 1hr chunk of time conveniently placed where internet access was not ideal, I decided to try learning on mobible through some apps. SoloLearn is one of the apps I have downloaded. So far they have a very thorough introduction to Javascript. I've noticed that out of the 4 Javascript programs/apps I've started learning (not all recently) started teaching with different things at different levels. It's interesting to see different approaches.
 
 **Link(s) to work**: NONE
+
+
+
+### Day 52: February 23, 2017 (Thursday)
+
+**Today's Progress**: 
+
+**Thoughts**: Feel a lit more solid on how Javascript generally works today. I still don't know what almost everything means but I have an idea of how it generally "functions" ;). Anyway, it has been a relatively productive day. I'm mostly just trying to take my time so I can retain all the new information and copy stuff down.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
