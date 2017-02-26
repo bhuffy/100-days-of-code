@@ -486,8 +486,18 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 ### Day 53-54: February 24-25, 2017 (Friday-Saturday)
 
-**Today's Progress**: 
+**Today's Progress**: Started working on JS at Code Academy and kept working on freeCodeCamp.
 
 **Thoughts**: Learning Javascript is starting to get a little hard and I'm not even into the "hard" stuff yet. I'm excited but a little bit nervous. Maybe it's becuase HTML and CSS are less problem solving and almost all structure/formatting work that I've done so far. Either way, I'm happy with the progress even though I'm going much slower.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 55: February 26, 2017 (Sunday)
+
+**Today's Progress**: Finished Introduction to JS section on CodeAcademy,a few challenges on FCC.
+
+**Thoughts**: Today was pretty fun. CodeAcademy seems much easier to understand for me than FCC so far for Javascript. Perhaps I'll use Code Academy for my primary learning and then supplement with FCC for this JS portion... The introductory content is also completely different for the two, and so far I'm liking CA more.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
