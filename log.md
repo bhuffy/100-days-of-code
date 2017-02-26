@@ -481,3 +481,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Feel a lit more solid on how Javascript generally works today. I still don't know what almost everything means but I have an idea of how it generally "functions" ;). Anyway, it has been a relatively productive day. I'm mostly just trying to take my time so I can retain all the new information and copy stuff down.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 53-54: February 24-25, 2017 (Friday-Saturday)
+
+**Today's Progress**: 
+
+**Thoughts**: Learning Javascript is starting to get a little hard and I'm not even into the "hard" stuff yet. I'm excited but a little bit nervous. Maybe it's becuase HTML and CSS are less problem solving and almost all structure/formatting work that I've done so far. Either way, I'm happy with the progress even though I'm going much slower.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
