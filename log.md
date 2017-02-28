@@ -501,3 +501,14 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Today was pretty fun. CodeAcademy seems much easier to understand for me than FCC so far for Javascript. Perhaps I'll use Code Academy for my primary learning and then supplement with FCC for this JS portion... The introductory content is also completely different for the two, and so far I'm liking CA more.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 56: February 27, 2017 (Monday)
+
+**Today's Progress**: Made short if/else statement game & learned about functions on CA, bracket notation on FCC.
+
+**Thoughts**: Despite today being a surprisingly hectic and disappointing day, I managed to complete my code requirement. It's a nice break and escape from everything happening right now...
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
