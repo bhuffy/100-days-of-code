@@ -512,3 +512,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
 
+
+
+### Day 57: February 28, 2017 (Tuesday)
+
+**Today's Progress**: Learning functions in Javascript...
+
+**Thoughts**: Today wasn't a very happy day for me either. I'm running on low sleep but this is one of the few things I always feel like I'm making progress on. If nothing else, I'm learning coding every day. It takes time, but it's also a blessing and motivation to do things in general. I wouldn't have expected I would be so stressed and looking forward to coding every day for the sole purpose of feeling at least some sort of decent accomplishment.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
