@@ -522,3 +522,12 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
 
+
+
+### Day 58: March 1, 2017 (Wednesday)
+
+**Today's Progress**: Finished functions section on CA, started Arrays on FCC.
+
+**Thoughts**: The sentiments above have been reinforced once more. I had a somewhat difficult challenge today making the rock paper scissors game, and now I'm sure I wouldn't have been able to do it without any of the guidance/instructions. The method used makes me think there has to be a better way to go about it, and I'm sure there is, if not in JS. Despite being a tiny project, I felt so rewarded being able to make a functional game, however basic it might be. Definitely want to keep learning.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
