@@ -531,3 +531,14 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: The sentiments above have been reinforced once more. I had a somewhat difficult challenge today making the rock paper scissors game, and now I'm sure I wouldn't have been able to do it without any of the guidance/instructions. The method used makes me think there has to be a better way to go about it, and I'm sure there is, if not in JS. Despite being a tiny project, I felt so rewarded being able to make a functional game, however basic it might be. Definitely want to keep learning.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+
+### Day 59: March 2, 2017 (Thursday)
+
+**Today's Progress**: Finished arrays and functions section on FCC.
+
+**Thoughts**: Today wasn't anything new in the coding world of FCC and CA. HOWEVER, I did fly into San Francisco today to look at colleges (CCA, Berkeley, Stanford), and I absolutely LOVE it based on 6 hours I've been here. It's honestly so cool to see billboards about AI and machine learning, meet some cool people (one of which was on the plane seat next to me who works at a biotech company), and generally getting a feel for the place I've looked up to as the place I want to live and work when I'm older. I still don't know if that will happen, or where I will go to college, but it makes coding today feel all the more cool for absolutely no reason. Awesome.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
