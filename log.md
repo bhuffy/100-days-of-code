@@ -542,3 +542,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Today wasn't anything new in the coding world of FCC and CA. HOWEVER, I did fly into San Francisco today to look at colleges (CCA, Berkeley, Stanford), and I absolutely LOVE it based on 6 hours I've been here. It's honestly so cool to see billboards about AI and machine learning, meet some cool people (one of which was on the plane seat next to me who works at a biotech company), and generally getting a feel for the place I've looked up to as the place I want to live and work when I'm older. I still don't know if that will happen, or where I will go to college, but it makes coding today feel all the more cool for absolutely no reason. Awesome.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 60: March 3, 2017 (Friday)
+
+**Today's Progress**: Finished boolean section of FCC and a few other things.
+
+**Thoughts**: I finished the boolean and if/else part of FCC today. I also visited Stanford (as a side note) and asked about the HCI program. Turns out the majors are more flexible than I thought with HCI - some majors (such as the symbolic systems major) allows/includes HCI. Interesting! Definitely going to take classes on it wherever I go.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
