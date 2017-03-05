@@ -562,3 +562,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Today's switch functions weren't too hard at first, but the counting cards function challenge got me. I couldn't figure it out for a loooong time (and used some help at the end). Anyway, today was pretty good. I did a lot of homework with math before this, so I'm kinda wiped. Also visited Berkeley and went to downtown SF. Love this place, and love these code challenges. :)
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 62: March 5, 2017 (Sunday)
+
+**Today's Progress**: Almost finished loops on CA, started objects on FCC.
+
+**Thoughts**: Mostly traveling, so I reviewed basic HTML & CSS on my iPhone (app called Lrn), and then got back home to do loops in Javascript and start learning about objects. Loops are super cool. Love how functional it is... excited to start getting into the FCC projects and do some more CA work. 
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
