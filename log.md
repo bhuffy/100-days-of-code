@@ -552,3 +552,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: I finished the boolean and if/else part of FCC today. I also visited Stanford (as a side note) and asked about the HCI program. Turns out the majors are more flexible than I thought with HCI - some majors (such as the symbolic systems major) allows/includes HCI. Interesting! Definitely going to take classes on it wherever I go.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 61: March 4, 2017 (Saturday)
+
+**Today's Progress**: Finished Switch functions on FCC.
+
+**Thoughts**: Today's switch functions weren't too hard at first, but the counting cards function challenge got me. I couldn't figure it out for a loooong time (and used some help at the end). Anyway, today was pretty good. I did a lot of homework with math before this, so I'm kinda wiped. Also visited Berkeley and went to downtown SF. Love this place, and love these code challenges. :)
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
