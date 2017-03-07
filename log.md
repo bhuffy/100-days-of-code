@@ -572,3 +572,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Mostly traveling, so I reviewed basic HTML & CSS on my iPhone (app called Lrn), and then got back home to do loops in Javascript and start learning about objects. Loops are super cool. Love how functional it is... excited to start getting into the FCC projects and do some more CA work. 
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 63: March 6, 2017 (Monday)
+
+**Today's Progress**: Did a harder loop exercise to find names, learned more on objects.
+
+**Thoughts**: Today I finished learning some loops and then continued learning objects. It's starting to get much more difficult. I'm getting a little stressed about how I'm going to be able to remember this all; I'd like to spend more time on it, and it's hard to remember anything and a progressive rate when I'm spending each day learning something new. At least I'm close to starting projects... that will allow me some time to wrap my head around everything.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
