@@ -582,3 +582,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: Today I finished learning some loops and then continued learning objects. It's starting to get much more difficult. I'm getting a little stressed about how I'm going to be able to remember this all; I'd like to spend more time on it, and it's hard to remember anything and a progressive rate when I'm spending each day learning something new. At least I'm close to starting projects... that will allow me some time to wrap my head around everything.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 64: March 7, 2017 (Tuesday)
+
+**Today's Progress**: Worked on objects and loops again. 
+
+**Thoughts**: It's progressively getting much harder to understand concepts. No longer am I easily blazing through 15+ lessons per day. It's around 10 now, and covers 1-2 subjects with more depth. Soon it's probably going to be 1-5. Had to get help for 2 of the challenges (one of the challenges wasn't very clear, the other I simply couldn't understand).
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
