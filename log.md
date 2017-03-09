@@ -592,3 +592,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: It's progressively getting much harder to understand concepts. No longer am I easily blazing through 15+ lessons per day. It's around 10 now, and covers 1-2 subjects with more depth. Soon it's probably going to be 1-5. Had to get help for 2 of the challenges (one of the challenges wasn't very clear, the other I simply couldn't understand).
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 65: March 8, 2017 (Wednesday)
+
+**Today's Progress**: Nested loops and while loops.
+
+**Thoughts**: I got stuck on nested loops for a loooong time, and then started while loops, which are still a bit confusing, although I understand the difference and when to use it. Frustrated, but I've been getting 4.5 hours of sleep for a few days now, not very attentive.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
