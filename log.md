@@ -602,3 +602,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: I got stuck on nested loops for a loooong time, and then started while loops, which are still a bit confusing, although I understand the difference and when to use it. Frustrated, but I've been getting 4.5 hours of sleep for a few days now, not very attentive.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 66: March 9, 2017 (Thursday)
+
+**Today's Progress**: Some while loops, stuck on Profile Lookup challenge.
+
+**Thoughts**: I did some while loops with Code Academy and then got COMPLETELY stuck on the Profile Lookup challenge for FreeCodeCamp. It's very frustrating and I can't seem to figure it out (even though it looks right). Guess we'll have to keep at it again tomorrow.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
