@@ -612,3 +612,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 **Thoughts**: I did some while loops with Code Academy and then got COMPLETELY stuck on the Profile Lookup challenge for FreeCodeCamp. It's very frustrating and I can't seem to figure it out (even though it looks right). Guess we'll have to keep at it again tomorrow.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 67-68: March 10-11, 2017 (Friday)
+
+**Today's Progress**: Finally got the Profile Lookup challenge on FCC.
+
+**Thoughts**: This has been one of the most frustrating problems, but at the same time I don't mind because it's practically stuck in my mind. Don't think this one will be forgotten, and it certainly solidified some concepts I wasn't so clear about. Frustrating and fun at the same time... but I have to admit I'm relieved that it's completed. :)
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
