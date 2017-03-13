@@ -615,10 +615,22 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 
 
 
-### Day 67-68: March 10-11, 2017 (Friday)
+### Day 67-68: March 10-11, 2017 (Friday-Saturday)
 
 **Today's Progress**: Finally got the Profile Lookup challenge on FCC.
 
 **Thoughts**: This has been one of the most frustrating problems, but at the same time I don't mind because it's practically stuck in my mind. Don't think this one will be forgotten, and it certainly solidified some concepts I wasn't so clear about. Frustrating and fun at the same time... but I have to admit I'm relieved that it's completed. :)
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 69: March 12, 2017 (Sunday)
+
+**Today's Progress**: Finished the while loop section of CA and Basic Javascript section of FCC.
+
+**Thoughts**: So I guess I finished a decent amount today... insane! I'm really loving Javascript. It's difficult but so cool what you can do with it. I'm hoping to apply it to more than just text games now and hopefully see how it works with a real website. I'm amazed that I've gotten this far and only have 3 weeks left. I think I'll try to continue it for one full year, but probably with less twitter updates because I'm sure that gets annoying. Plus, I only have one tweet out of 70 that isn't related to code haha. Feeling stressed but happy that I have one week left of this.
+
+I also forgot to mention that I was accepted into the Chingu march cohort for FCC, which starts this week. Excited!
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
