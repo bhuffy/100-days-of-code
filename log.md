@@ -634,3 +634,13 @@ Anyway, the next few days I probably won't be doing anything except learning thr
 I also forgot to mention that I was accepted into the Chingu march cohort for FCC, which starts this week. Excited!
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 70: March 13, 2017 (Monday)
+
+**Today's Progress**: Started FCC Object Oriented and Functional Programming section, almost finished CA's flow control section.
+
+**Thoughts**: I'm feeling ok today, and happy with progress. However, I just want summer to get here already... or really just high school to be over. The next year is going to be the craziest time of my life, and by far the most stressful. While learning code is fun, that doesn't translate to everything else. Very nervous about colleges, but at least coding gives me something to dwell on instead sometimes.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
