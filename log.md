@@ -644,3 +644,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: I'm feeling ok today, and happy with progress. However, I just want summer to get here already... or really just high school to be over. The next year is going to be the craziest time of my life, and by far the most stressful. While learning code is fun, that doesn't translate to everything else. Very nervous about colleges, but at least coding gives me something to dwell on instead sometimes.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+### Day 71: March 14, 2017 (Tuesday)
+
+**Today's Progress**: Almost finished Data Structures section on Code Academy.
+
+**Thoughts**: Not a great day... very stressed. Was able to escape for a little bit coding but still feeling drowned in things to do the next few months. Overwhelmed, but looking forward to getting more into objects in Javascript the next few days.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
