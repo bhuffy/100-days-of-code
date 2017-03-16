@@ -654,3 +654,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Not a great day... very stressed. Was able to escape for a little bit coding but still feeling drowned in things to do the next few months. Overwhelmed, but looking forward to getting more into objects in Javascript the next few days.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 72: March 15, 2017 (Wednesday)
+
+**Today's Progress**: Finished Arrays section of CA. Started working on Objects now for both CA & FCC.
+
+**Thoughts**: Today was much better, I'm less stressed even though I had to do a clutch project at the end of the day. Maybe that's why coding today felt a little easier; I didn't have to think about anything else or worry about rushing. Still a busy week, but excited for spring break in 2 days so I can get a lot of work done. The last month of this challenge is going to be difficult outside of school, and certainly test my endurance.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
