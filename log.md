@@ -664,3 +664,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Today was much better, I'm less stressed even though I had to do a clutch project at the end of the day. Maybe that's why coding today felt a little easier; I didn't have to think about anything else or worry about rushing. Still a busy week, but excited for spring break in 2 days so I can get a lot of work done. The last month of this challenge is going to be difficult outside of school, and certainly test my endurance.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 73: March 16, 2017 (Thursday)
+
+**Today's Progress**: Worked on FCC Objects.
+
+**Thoughts**: Objects certainly take a while to learn. I need to take some time to follow everything. Much different pace than the HTML & CSS, which I suppose is more or less memorization, experimentation, and practice. Javascript has been much more complex as of yet. Perhaps there are different frameworks for CSS and HTML that make it much harder (or just completely different), but whatever the case, it's a change. Love it!
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
