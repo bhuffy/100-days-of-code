@@ -684,3 +684,14 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Excited for multiple reasons; today was the last day of school leading up to spring break, I finished the FCC Object-Oriented & Functional Progrmaming section so I'm on to CA and then the algorithms, and finally the March cohort group opened on slack for Chingu's cohort. I would never have expected this to happen 2.5 months ago when I started. Absolutely insane, and only more insanity to come for the next few!
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+
+## Day 75: March 18, 2017 (Saturday)
+
+**Today's Progress**: Worked on CA's Objects I section.
+
+**Thoughts**: Today was mostly working CA's objects section, and then communicating with people in the Flamingo's cohort (March cohort) to get to know them better. I'm so excited, even though this whole year is becoming so intense and nerve wracking. Also 3/4 done with the challenge, but I think I'll shoot for 200 after! :)
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
