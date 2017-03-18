@@ -674,3 +674,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Objects certainly take a while to learn. I need to take some time to follow everything. Much different pace than the HTML & CSS, which I suppose is more or less memorization, experimentation, and practice. Javascript has been much more complex as of yet. Perhaps there are different frameworks for CSS and HTML that make it much harder (or just completely different), but whatever the case, it's a change. Love it!
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 74: March 17, 2017 (Friday)
+
+**Today's Progress**: Finished FCC Object-Oriented and Functional Programming section!
+
+**Thoughts**: Excited for multiple reasons; today was the last day of school leading up to spring break, I finished the FCC Object-Oriented & Functional Progrmaming section so I'm on to CA and then the algorithms, and finally the March cohort group opened on slack for Chingu's cohort. I would never have expected this to happen 2.5 months ago when I started. Absolutely insane, and only more insanity to come for the next few!
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
