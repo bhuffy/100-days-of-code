@@ -695,3 +695,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Today was mostly working CA's objects section, and then communicating with people in the Flamingo's cohort (March cohort) to get to know them better. I'm so excited, even though this whole year is becoming so intense and nerve wracking. Also 3/4 done with the challenge, but I think I'll shoot for 200 after! :)
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 76: March 19, 2017 (Sunday)
+
+**Today's Progress**: Nearly finished CA's Objects I section (got to the challenge part).
+
+**Thoughts**: CA's objects section is FAR more thorough than FCC. Perhaps that's something FCC should work on more, because CA did a great job on that section; it's also far more than the 2 hours for the entirety of FCC (which never takes as long as predicted, unless they expect you to find information elsewhere, which isn't specified). I still like both programs, but I have to say that Code Academy is more complete for the Javascript section that includes more practical, real examples.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
