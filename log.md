@@ -708,7 +708,7 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 
 
 
-## Day 77: March 19, 2017 (Sunday)
+## Day 77: March 20, 2017 (Monday)
 
 **Today's Progress**: Finished Objects I for CA and started Objects II.
 
