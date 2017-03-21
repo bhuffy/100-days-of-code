@@ -705,3 +705,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: CA's objects section is FAR more thorough than FCC. Perhaps that's something FCC should work on more, because CA did a great job on that section; it's also far more than the 2 hours for the entirety of FCC (which never takes as long as predicted, unless they expect you to find information elsewhere, which isn't specified). I still like both programs, but I have to say that Code Academy is more complete for the Javascript section that includes more practical, real examples.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 77: March 19, 2017 (Sunday)
+
+**Today's Progress**: Finished Objects I for CA and started Objects II.
+
+**Thoughts**: Today was a lot of travelling (went to Pittsburgh for college visits starting tomorrow starting with Carnegie Mellon), and finally did Objects with CA today. I'm eager to start with Algorithms for FCC so I might do that tomorrow instead of Objects II, but if I finish Objects II, I finish the CA course. I know, I know, it's not about finishing, but it would be the first CA course to complete and I see no reason to delay it... I guess I'll decide tomorrow what I'm in the mood for. Could be very tired. :)
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
