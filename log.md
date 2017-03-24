@@ -728,3 +728,10 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 
 
 
+## Day 80: March 23, 2017 (Thursday)
+
+**Today's Progress**: Talked with Chingu group about bot project.
+
+**Thoughts**: Found out none of us really know what we're doing, which is good and bad; bad in that we'll probably make some unecessary or poor mistakes, but good in that it's going to be one hell of a fun and interesting project.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
