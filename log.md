@@ -735,3 +735,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Found out none of us really know what we're doing, which is good and bad; bad in that we'll probably make some unecessary or poor mistakes, but good in that it's going to be one hell of a fun and interesting project.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 81-82: March 24-25, 2017 (Friday)
+
+**Today's Progress**: Spent time learning Git and GitHub so I can work on the next FCC project.
+
+**Thoughts**: Today was a mix of learning Git and GitHub so I can work on the group project building a twitterbot (next meetup in a few days). It's not necessarily complex, but we're all new to the process, so we'll see what comes up. I also started discussing with my pair programming partner (different thing) about potential projects and tasks. Everything is getting real crazy real fast. So many commitments and things to do in the next 6 weeks I'm half dead, but at least the remaining half is relatively happy.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
