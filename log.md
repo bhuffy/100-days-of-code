@@ -738,7 +738,7 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 
 
 
-## Day 81-82: March 24-25, 2017 (Friday)
+## Day 81-82: March 24-25, 2017 (Friday-Saturday)
 
 **Today's Progress**: Spent time learning Git and GitHub so I can work on the next FCC project.
 
