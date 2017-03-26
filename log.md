@@ -745,3 +745,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Today was a mix of learning Git and GitHub so I can work on the group project building a twitterbot (next meetup in a few days). It's not necessarily complex, but we're all new to the process, so we'll see what comes up. I also started discussing with my pair programming partner (different thing) about potential projects and tasks. Everything is getting real crazy real fast. So many commitments and things to do in the next 6 weeks I'm half dead, but at least the remaining half is relatively happy.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 83: March 26, 2017 (Sunday)
+
+**Today's Progress**: Learned Git and GitHub, research on Bot pages.
+
+**Thoughts**: Today was a mix of learning Git, GitHub, and researching bots amongst other things. Tomorrow I'm meeting with my pair programming buddy and build to learn project group to start on both of those things. We'll see what comes out of it. Need to do a lot of other homework but dying to just keep learning code stuff. Also randomly decided to learn early math stuff on Khan Academy, which came out of a coding article I was reading. I don't know why I decided to do it, so I didn't count that for my time learning code-related stuff.
+
+**Link(s) to work**: [GitHub] (https://github.com/bhuffy)
