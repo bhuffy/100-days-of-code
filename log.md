@@ -755,3 +755,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Today was a mix of learning Git, GitHub, and researching bots amongst other things. Tomorrow I'm meeting with my pair programming buddy and build to learn project group to start on both of those things. We'll see what comes out of it. Need to do a lot of other homework but dying to just keep learning code stuff. Also randomly decided to learn early math stuff on Khan Academy, which came out of a coding article I was reading. I don't know why I decided to do it, so I didn't count that for my time learning code-related stuff.
 
 **Link(s) to work**: [GitHub] (https://github.com/bhuffy)
+
+
+
+## Day 84: March 27, 2017 (Monday)
+
+**Today's Progress**: Met with pair programming partner, then w/ bot group.
+
+**Thoughts**: Today was exhausting; I didn't get anywhere with the palindrome algorithm problem that I did with my buddy (largely because I hadn't tried the first two algorithm challenges, didn't have that prior knowledge that would have helped), and then afterwards met with my bot group members, who were both awesome people and fun to meet (we just planned). Overall, tiring but worthwhile. We'll see what will happen.
+
+**Link(s) to work**: [GitHub] (https://github.com/bhuffy)
