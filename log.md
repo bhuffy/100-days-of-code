@@ -765,3 +765,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Today was exhausting; I didn't get anywhere with the palindrome algorithm problem that I did with my buddy (largely because I hadn't tried the first two algorithm challenges, didn't have that prior knowledge that would have helped), and then afterwards met with my bot group members, who were both awesome people and fun to meet (we just planned). Overall, tiring but worthwhile. We'll see what will happen.
 
 **Link(s) to work**: [GitHub] (https://github.com/bhuffy)
+
+
+
+## Day 84: March 27, 2017 (Tuesday)
+
+**Today's Progress**: Worked on first algorithm challenge.
+
+**Thoughts**: A mix of being tired and the struggle to understand the MDN articles (explained info with other info I don't understand... lol) go to me today. I still haven't figured out the answer, but I'm sure I'll get it tomorrow. Just gotta pick out the key points for each method and try to experiment with possible outcomes.
+
+**Link(s) to work**: [GitHub] (https://github.com/bhuffy)
