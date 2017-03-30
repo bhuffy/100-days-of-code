@@ -768,10 +768,20 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 
 
 
-## Day 84: March 27, 2017 (Tuesday)
+## Day 85: March 28, 2017 (Tuesday)
 
 **Today's Progress**: Worked on first algorithm challenge.
 
 **Thoughts**: A mix of being tired and the struggle to understand the MDN articles (explained info with other info I don't understand... lol) go to me today. I still haven't figured out the answer, but I'm sure I'll get it tomorrow. Just gotta pick out the key points for each method and try to experiment with possible outcomes.
 
 **Link(s) to work**: [GitHub] (https://github.com/bhuffy)
+
+
+
+## Day 86: March 89, 2017 (Wednesday)
+
+**Today's Progress**: HTML & CSS review on plane.
+
+**Thoughts**: Couldn't get access to FCC or online because I was on a plane, so used the SoloLearn apps for HTML and CSS to review, which I should honestly be doing more often. :P
+
+**Link(s) to work**: NONE
