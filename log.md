@@ -778,7 +778,7 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 
 
 
-## Day 86: March 89, 2017 (Wednesday)
+## Day 86: March 29, 2017 (Wednesday)
 
 **Today's Progress**: HTML & CSS review on plane.
 
