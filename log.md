@@ -802,6 +802,6 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 
 **Today's Progress**: Learned more about node.js and twitter APIs, did algorithm challenge 2 on FCC.
 
-**Thoughts**: Spent all day working on node.js stuff and trying to do algorithm challenges because I need to be able to help build the twitter bot with my team. Also scheduled a meeting with my accountability partner through the Chingu cohort for tomorrow, probably going to pair program with my other partner sometime this weekend and meet up again about progress on learning about building a twitter bot with my build.to.learn group. This is such a busy month coming up. Probably going to die inside... this is why we don't take on so many projects at a time, my friends. :)))))
+**Thoughts**: I spent today learning more node.js and twitter API stuff, specifically in command line. I also completed the second algorithm challenge (with only one small hint from FCC Javascript Help this time!). I was absolutely ecstatic when all of the green buttons popped up and it said completed.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
