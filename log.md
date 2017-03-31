@@ -785,3 +785,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Couldn't get access to FCC or online because I was on a plane, so used the SoloLearn apps for HTML and CSS to review, which I should honestly be doing more often. :P
 
 **Link(s) to work**: NONE
+
+
+
+## Day 87: March 30, 2017 (Thursday)
+
+**Today's Progress**: Learning basics about node.js and twitter APIs, did algorithm challenge 1 on FCC.
+
+**Thoughts**: Spent all day working on node.js stuff and trying to do algorithm challenges because I need to be able to help build the twitter bot with my team. Also scheduled a meeting with my accountability partner through the Chingu cohort for tomorrow, probably going to pair program with my other partner sometime this weekend and meet up again about progress on learning about building a twitter bot with my build.to.learn group. This is such a busy month coming up. Probably going to die inside... this is why we don't take on so many projects at a time, my friends. :)))))
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
