@@ -805,3 +805,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: I spent today learning more node.js and twitter API stuff, specifically in command line. I also completed the second algorithm challenge (with only one small hint from FCC Javascript Help this time!). I was absolutely ecstatic when all of the green buttons popped up and it said completed.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 89: April 1, 2017 (Saturady)
+
+**Today's Progress**: Learned more about twitter bots, finished third algorithm challenge.
+
+**Thoughts**: Today was not as productive as I'd hoped. I did, however, get a decent amount done in code. I think I understand how to build a twitter bot a little better and have a better grasp on algorithms. Taking this all one step at a time.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
