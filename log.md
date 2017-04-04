@@ -818,10 +818,20 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 
 
 
-## Day 90: April 2, 2017 (Sudnay)
+## Day 90: April 2, 2017 (Sunday)
 
 **Today's Progress**: Learned how to set up twitter app, worked on fourth algorithm challenge.
 
 **Thoughts**: Progress still feeling slow, but probably because I can't breeze through challenges anymore and am dedicating more time to the Chingu cohort. I don't exactly know how to feel right now, because school starts tomorrow (the busiest part of my life will start tomorrow and end about the second week of May). I hope it won't be a problem, but of course school must be a priority this month, since the fate of my college applications largely rests on what will come of April. :(
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 91: April 3, 2017 (Monday)
+
+**Today's Progress**: Watched videos on building bots, finished fourth algorithm challenge.
+
+**Thoughts**: Still not feeling good about this month, but coding keeps the mind off most troubles. Glad to be part of a great coding community and appreciate all this stuff online to help me learn. Really struggling to get stuff done I've been trying to do for the last year (even though I'm certainly improving), but this the one project I never expected to take me anywhere, and here I am. It's amazing where life can take you, despite your own plans.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
