@@ -835,3 +835,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Still not feeling good about this month, but coding keeps the mind off most troubles. Glad to be part of a great coding community and appreciate all this stuff online to help me learn. Really struggling to get stuff done I've been trying to do for the last year (even though I'm certainly improving), but this the one project I never expected to take me anywhere, and here I am. It's amazing where life can take you, despite your own plans.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 92: April 4, 2017 (Tuesday)
+
+**Today's Progress**: Getting hang of the command line w/ node, starting to set up a project.
+
+**Thoughts**: Today was better outside of coding, so my mind was clearer when learning today. I went over the command line, which isn't so hard. I remember when it used to be a scary place not to screw around with... but it's not really like that at all. Also communicated with group members.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
