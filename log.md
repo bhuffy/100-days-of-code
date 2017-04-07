@@ -845,3 +845,14 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: Today was better outside of coding, so my mind was clearer when learning today. I went over the command line, which isn't so hard. I remember when it used to be a scary place not to screw around with... but it's not really like that at all. Also communicated with group members.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+
+## Day 93-94: April 5-6, 2017 (Wednesday-Thursday)
+
+**Today's Progress**: Learning more about node.js and attempting algorithm 5.
+
+**Thoughts**: I've been super busy lately and this week is going to be so stressful. Only one more week of this challenge, but I'll probably keep going, just because I know it's a habit I should be keeping up (and I have commitments to code already!). This month is already proving to be a challenge, my code is by far more challenging and sophisticated in terms of capacity necessary to think, and it just keeps getting better.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
