@@ -856,3 +856,26 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: I've been super busy lately and this week is going to be so stressful. Only one more week of this challenge, but I'll probably keep going, just because I know it's a habit I should be keeping up (and I have commitments to code already!). This month is already proving to be a challenge, my code is by far more challenging and sophisticated in terms of capacity necessary to think, and it just keeps getting better.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 95-96: April 7-8, 2017 (Friday-Saturday)
+
+**Today's Progress**: Started setting up twitter bot, finished algorithm 5.
+
+**Thoughts**: I'm still really busy, lots of tennis and an ACT these two days. Finally finished next algorithm and kept working on setting up bot.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 97: April 9, 2017 (Sunday)
+
+**Today's Progress**: Set up google voice, twitter account, twitter app.
+
+**Thoughts**: Progressed a decent amount with the practice bot I'm setting up, doing it based on places in Milwaukee, should be super cool if I can learn enough to program it for legitimately cool things (instead of just hashtags or accounts). Should be interesting to see how it turns out in the next few days!
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
