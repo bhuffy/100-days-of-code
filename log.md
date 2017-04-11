@@ -879,3 +879,10 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 
 
 
+## Day 98: April 10, 2017 (Monday)
+
+**Today's Progress**: Kept working on twitter bot, couldn't run code.... :(
+
+**Thoughts**: I suppose I should expect issues more often. Oh well... I guess we'll have to try to fix it tomorrow. Somethign wrong with authentication and because I don't entirely understand all of the code I write at a syntax or root level it's hard to diagnose where I'm going wrong. I suppose I'll have to keep searching the internet for answers until I have enough experience to find the problem in the code/keys. I also started the next algorithm challenge but didn't work on it much.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
