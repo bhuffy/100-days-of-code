@@ -886,3 +886,13 @@ I also forgot to mention that I was accepted into the Chingu march cohort for FC
 **Thoughts**: I suppose I should expect issues more often. Oh well... I guess we'll have to try to fix it tomorrow. Somethign wrong with authentication and because I don't entirely understand all of the code I write at a syntax or root level it's hard to diagnose where I'm going wrong. I suppose I'll have to keep searching the internet for answers until I have enough experience to find the problem in the code/keys. I also started the next algorithm challenge but didn't work on it much.
 
 **Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
+
+
+
+## Day 99: April 11, 2017 (Tuesday)
+
+**Today's Progress**: Worked on algorithm 6.
+
+**Thoughts**: I didn't finish the algorithm but I realized that a previous algorithm I solved could have been done a much easier way.
+
+**Link(s) to work**: [freeCodeCamp] (https://www.freecodecamp.com/bhuffy)
